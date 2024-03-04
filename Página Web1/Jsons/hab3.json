@@ -1,0 +1,8 @@
+[
+       { "Id" : 3,
+        "Imagen": "hotel3.jpg",
+         "Domicilio": "hotel Hyatt",
+         "DescripcionGeneral": "Habitación de hotel pequeña, pero acogedora y funcional. ",
+         "Estado": "La habitación de hotel está en impecable estado.",
+         "Valor": "El valor de esta habitación es de $5.000 pesos argentinos" } 
+    ]
